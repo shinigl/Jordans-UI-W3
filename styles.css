@@ -130,7 +130,7 @@ header {
 }
 
 .card-cont {
-    background: linear-gradient(to right, #000000, #e74c3c);
+    background: linear-gradient(to right, #000000, #dca6a0);
     padding: 20px;
     border-radius: 20px;
     display: flex;
